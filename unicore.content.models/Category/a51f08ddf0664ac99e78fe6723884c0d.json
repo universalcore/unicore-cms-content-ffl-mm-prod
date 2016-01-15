@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "a51f08ddf0664ac99e78fe6723884c0d", 
+  "language": "bur_MM", 
+  "title": "\u0907\u0928\u094d\u091f\u0930\u0928\u0947\u091f\u0915\u093e \u092c\u093e\u0930\u0947\u092e\u093e \u0925\u093e\u0939\u093e \u092a\u093e\u0909\u0928\u0941\u092a\u0930\u094d\u0928\u0947 \u0915\u0941\u0930\u093e", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "about-facts-for-life-burmese", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
