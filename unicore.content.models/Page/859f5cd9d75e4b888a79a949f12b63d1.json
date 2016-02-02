@@ -6,12 +6,12 @@
   "primary_category": "fdc88f4cb321494ab4f32aa3f2b5de73", 
   "created_at": "2016-02-01T09:10:15+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-02-02T09:06:09.646011+00:00", 
+  "modified_at": "2016-02-02T09:07:17.466198+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "160e8b54dd0144d6bf5bf9db2ca5feec", 
   "published": null, 
-  "position": 9, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Good_nutrition_helps_growth", 
   "uuid": "859f5cd9d75e4b888a79a949f12b63d1"
