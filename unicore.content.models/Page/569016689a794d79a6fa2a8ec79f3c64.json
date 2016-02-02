@@ -4,14 +4,14 @@
   "language": "bur_MM", 
   "title": "\u1004\u103d\u1000\u1039\u1016\u103a\u102c\u1038\u1031\u101b\u102c\u1002\u102b\u1019\u103b\u1016\u1005\u1039\u1031\u1005\u101b\u1014\u1039\u1018\u101a\u1039\u101c\u102d\u102f\u1000\u102c\u1000\u103c\u101a\u1039\u1010\u102c\u1038\u1006\u102e\u1038\u107e\u1000\u1019\u101c\u1032 ", 
   "primary_category": "994d7320953f4351a41ea81a1a6df3c0", 
-  "created_at": "2016-02-01T10:12:35.268580+00:00", 
+  "created_at": "2016-02-01T10:12:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-02-01T10:12:35.268814+00:00", 
+  "modified_at": "2016-02-02T09:44:27.722011+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "b3e444b67f6c47f8b31c8ece85c78c5b", 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "How_to_avoid_malaria", 
   "uuid": "569016689a794d79a6fa2a8ec79f3c64"
