@@ -4,14 +4,14 @@
   "language": "bur_MM", 
   "title": "\u103b\u1019\u1014\u1039\u1019\u102c\u108f\u102d\u102f\u1004\u1039\u1004\u1036\u104c \u1031\u103b\u1019\u103b\u1019\u1088\u1015\u1039\u1019\u102f\u102d\u1004\u1039\u1038\u1019\u103a\u102c\u1038\u108f\u103d\u1004\u1039\u1037 \u1031\u1015\u102b\u1000\u1039\u1000\u103c\u1032\u1031\u1005\u1031\u101e\u102c\u1005\u1005\u1039\u1000\u103a\u1014\u1039\u1015\u1005\u1065\u100a\u1039\u1038\u1019\u103a\u102c\u1038\u104f \u103b\u1001\u102d\u1019\u1039\u1038\u1031\u103b\u1001\u102c\u1000\u1039\u1019\u1088 \u1000\u102d\u102f \u1031\u103b\u1016\u101b\u103d\u1004\u1039\u1038\u101b\u1014\u1039 \u1021\u1005\u102f\u102d\u1038\u101b\u104a \u1000\u102f\u101c\u101e\u1019\u1002\u1062 \u101e\u102d\u102f\u1094\u1019\u101f\u102f\u1010\u1039 \u1021\u103b\u1001\u102c\u1038\u101c\u1030\u101e\u102c\u1038\u1001\u103a\u1004\u1039\u1038\u1005\u102c\u1014\u102c\u1031\u1011\u102c\u1000\u1039\u1011\u102c\u1038\u1019\u1088 \u1021\u1000\u1030\u1021\u100a\u102e \u1019\u103a\u102c\u1038\u1015\u1036\u1037\u1015\u102d\u102f\u1038\u1031\u1015\u1038\u1031\u1014\u101e\u100a\u1039\u1037 \u1021\u1016\u103c\u1032\u1095\u1021\u1005\u100a\u1039\u1038\u1019\u103a\u102c\u1038", 
   "primary_category": "c6b1cefe18d84c75a813cc378b978349", 
-  "created_at": "2016-02-11T07:42:55.926953+00:00", 
+  "created_at": "2016-02-11T07:42:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-02-11T07:42:55.927198+00:00", 
+  "modified_at": "2016-02-11T07:56:42.677454+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "linitiatives_of_the_government_un_or_other_humanitarian_actors_to_address_the_threat_of_landmines_and_erw_in_myanmar", 
   "uuid": "4489ca63cbae404cb05cfbae7da18238"
